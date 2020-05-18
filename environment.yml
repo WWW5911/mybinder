@@ -2,9 +2,6 @@ dependencies:
   - python=3
   - pip:
     - alabaster
-    - anaconda-client
-    - anaconda-navigator
-    - anaconda-project
     - asn1crypto
     - astroid
     - astropy
